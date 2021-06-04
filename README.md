@@ -1,7 +1,6 @@
 # Campaign_analysis
 ### Problem Statement
- - A digital ad campaign with 4 ad groups having n number of ad. Analysing the performance of each ad group depending on
- cost,revenue,impression and clicks. 
+ - A digital ad campaign with 4 ad groups having n number of ad. Analysing the performance of each ad group depending on cost,revenue,impression and clicks. 
  - Analysing weekly trends as well other calculation ROI,CPA,CPC and CTR the performance merics which helps in determing the performance of an ad group.
 - ROI stands for return of investment.
 - CPC stands for cost per click.
